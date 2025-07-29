@@ -1,5 +1,7 @@
 # gan_project
 
+PyTorch ile yazılmış GAN (Generative Adversarial Network) projesini TensorFlow'a dönüştürme.
+
 Kurulum için gerekli paketler:
 pip install tensorflow matplotlib numpy
 
