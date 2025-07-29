@@ -1,7 +1,7 @@
 # gan_project
 
 Kurulum için gerekli paketler:
-bashpip install tensorflow matplotlib numpy
+pip install tensorflow matplotlib numpy
 
 Önemli Farklılıklar:
 
