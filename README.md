@@ -15,4 +15,4 @@ Gradient Hesaplama: PyTorch'ta backward() ve step(), TensorFlow'da GradientTape 
 Veri Yükleme: PyTorch'ta DataLoader, TensorFlow'da tf.data.Dataset kullanılıyor
 
 Yazdığım kod Fashion-MNIST veri setini otomatik indirecek ve 50 epoch boyunca eğitim yapacak.
-Her epoch sonunda üretilen görüntüler generated_fake_imgs klasörüne kaydedilecek.
+Her epoch sonunda üretilen görüntüler generated_fake_imgs klasörüne kaydedecek.
